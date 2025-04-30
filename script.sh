@@ -8,3 +8,5 @@ if (( $answ != 1 )); then
 else
 	echo "You win,goodbuy"
 fi
+
+echo "lox"
